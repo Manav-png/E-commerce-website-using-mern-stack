@@ -14,8 +14,6 @@ Chakra Ui
 
 Redux
 
-Here is a Demo : Demo
-
 If you are logged in as an admin a button in navbar will show up which gives you controll on your products,users and orders.
 
 The button :
